@@ -47,10 +47,10 @@ console.log(check_origin_exists(regiao_regiao, "Sul"))
 const check_route_regiao_regiao = (origem, destino, conexao_regiao) => {
     // aqui vamos identificar de que regiao é cada capital e verificar se existe uma rota
     // vamos utilizar a variavel 'regiao_regiao' para verificar se existe conexao.
-    
-    // primeiro passo: Verificar se é possivel sair da regiao(capital) de origem, ou seja se existe uma chave com valor da regiao na variavel regiao_regiao
-    // verificar se é possivel chegar na regiao de destino, verificando se existe alguma chave que tenha o o valor de destino como value
+
+    //1- primeiro passo: Verificar se é possivel sair da regiao(capital) de origem, ou seja se existe uma chave com valor da regiao na variavel regiao_regiao
+    // para isso usamos a funcao check_origin_exists()
+
+    //2- verificar se é possivel chegar na regiao de destino, verificando se existe alguma chave que tenha o o valor de destino como value
+    // para isso utilizamos a funcao getOriginByDestination
 }
-
-
-
