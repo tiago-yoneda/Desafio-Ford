@@ -11,3 +11,6 @@ Capitais = [“Porto Velho”,”Manaus”,”Rio Branco”,”Campo Grande”,�
 
 
 Qualquer capital de qualquer região é capaz de se interconectar com todas as demais capitais da mesma região. Por exemplo, São paulo é capaz de se conectar com qualquer outra capital da região sudeste.
+
+## Desafio 
+Utilizando esse conhecimento prévio, como desenvolvedor da empresa, sua função é criar um algoritmo que consiga definir o MÍNIMO DE ROTAS que devem ser mapeadas para que se possa chegar a qualquer outra capital através de uma rota mapeada. 
