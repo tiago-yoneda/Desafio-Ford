@@ -1,0 +1,7 @@
+{
+    "Norte": ["Rio Branco","Macapá", "Manaus", "Belém", "Porto Velho", "Boa Vista", "Palmas"],
+    "Nordeste": ["Maceió", "Salvador", "Fortaleza", "São Luís", "João Pessoa", "Recife", "Teresina", "Natal", "Aracaju" ],
+    "Centro": ["Brasília", "Goiânia", "Cuiabá", "Campo Grande"],
+    "Sudeste": ["Vitória", "Belo Horizonte", "Rio de Janeiro", "São Paulo"],
+    "Sul": ["Curitiba", "Florianópolis", "Porto Alegre"]
+}
